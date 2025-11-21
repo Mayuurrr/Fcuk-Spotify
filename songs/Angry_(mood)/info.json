@@ -1,4 +1,11 @@
 {
-    "title": "Angry Mood",
-    "description": "Calm your Anger"
+  "title": "Angry Mood",
+  "description": "Calm your Anger",
+  "songs": [
+    "Fall Off (Interlude).mp3",
+    "I Guess.mp3",
+    "Joota Japani.mp3",
+    "NGL.mp3",
+    "Prarthana.mp3"
+  ]
 }
